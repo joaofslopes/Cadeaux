@@ -11,5 +11,6 @@ public class HelloAndroid extends Activity {
         setContentView(R.layout.main);   
         
         /* Local change 1 */
+        /* GitHub change 1 */
     }
 }
