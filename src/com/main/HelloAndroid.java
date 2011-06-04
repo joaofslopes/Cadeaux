@@ -9,12 +9,8 @@ public class HelloAndroid extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);        
         setContentView(R.layout.main);   
-        
-        /* Local change 1 */
-        /* GitHub change 1 */
-        /* Local change 2 */        
-
-        /* GitHub change 2 */
-        /* GitHub change 3 */
+     
+        /* Another Test */
+     
     }
 }
