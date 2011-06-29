@@ -11,6 +11,8 @@ public class HelloAndroid extends Activity {
         setContentView(R.layout.main);   
      
         /* Another Test */
+        
+        /* Test numero 2 */
      
     }
 }
